@@ -5,6 +5,8 @@ The training job is split into three notebook files.
 (2) Data Preparation
 (3) Classifying Risk of Default Payment - Logistic Regression
 
+The risk attributes can be found in the data folder.
+
 ========
 
 (1) Data Exploration and Model Selection
